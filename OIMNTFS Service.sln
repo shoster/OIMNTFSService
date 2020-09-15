@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OIMNTFS Service", "OIMNTFS Service.csproj", "{7469A789-F16B-41C7-87E5-CA9BDB22B316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7469A789-F16B-41C7-87E5-CA9BDB22B316}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{7469A789-F16B-41C7-87E5-CA9BDB22B316}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{7469A789-F16B-41C7-87E5-CA9BDB22B316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7469A789-F16B-41C7-87E5-CA9BDB22B316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F053A75-E4A7-44A6-BC95-3AD5938FA933}
+	EndGlobalSection
+EndGlobal
