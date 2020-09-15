@@ -1,0 +1,9 @@
+D:\Source\Repos\shoster\OIMNTFSService\obj\Release\OIMNTFS_Service.OIMNTFSService.resources
+D:\Source\Repos\shoster\OIMNTFSService\obj\Release\OIMNTFS_Service.ProjectInstaller.resources
+D:\Source\Repos\shoster\OIMNTFSService\obj\Release\OIMNTFS Service.csproj.GenerateResource.cache
+D:\Source\Repos\shoster\OIMNTFSService\obj\Release\OIMNTFS Service.csproj.CoreCompileInputs.cache
+D:\Source\Repos\shoster\OIMNTFSService\bin\Release\OIMNTFS Service.exe.config
+D:\Source\Repos\shoster\OIMNTFSService\bin\Release\OIMNTFS Service.exe
+D:\Source\Repos\shoster\OIMNTFSService\bin\Release\OIMNTFS Service.pdb
+D:\Source\Repos\shoster\OIMNTFSService\obj\Release\OIMNTFS Service.exe
+D:\Source\Repos\shoster\OIMNTFSService\obj\Release\OIMNTFS Service.pdb

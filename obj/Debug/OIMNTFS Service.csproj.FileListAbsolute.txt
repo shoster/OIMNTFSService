@@ -1,0 +1,10 @@
+D:\Source\Repos\shoster\OIMNTFSService\bin\Debug\OIMNTFS Service.exe.config
+D:\Source\Repos\shoster\OIMNTFSService\bin\Debug\OIMNTFS Service.exe
+D:\Source\Repos\shoster\OIMNTFSService\bin\Debug\OIMNTFS Service.pdb
+D:\Source\Repos\shoster\OIMNTFSService\obj\Debug\OIMNTFS Service.csprojAssemblyReference.cache
+D:\Source\Repos\shoster\OIMNTFSService\obj\Debug\OIMNTFS_Service.OIMNTFSService.resources
+D:\Source\Repos\shoster\OIMNTFSService\obj\Debug\OIMNTFS_Service.ProjectInstaller.resources
+D:\Source\Repos\shoster\OIMNTFSService\obj\Debug\OIMNTFS Service.csproj.GenerateResource.cache
+D:\Source\Repos\shoster\OIMNTFSService\obj\Debug\OIMNTFS Service.csproj.CoreCompileInputs.cache
+D:\Source\Repos\shoster\OIMNTFSService\obj\Debug\OIMNTFS Service.exe
+D:\Source\Repos\shoster\OIMNTFSService\obj\Debug\OIMNTFS Service.pdb

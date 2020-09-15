@@ -4,7 +4,7 @@ using System.DirectoryServices;
 
 namespace OIMNTFS_Service
 {
-    class ADCache
+    public class ADCache
     {
         private EventLog eventLog;
         public struct Properties

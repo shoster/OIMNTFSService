@@ -16,9 +16,9 @@ namespace OIMNTFS_Service
         int port;
         bool runLoops = true;
         EventLog eventLog;
-        private OIMNTFSScanner OIMNTFSScanner;
+        private OIMNTFSPartialScanner OIMNTFSScanner;
 
-        public OIMNTFSServer(OIMNTFSScanner scanner, int listentoport = 16383)
+        public OIMNTFSServer(OIMNTFSPartialScanner scanner, int listentoport = 16383)
         {
             eventLog = new EventLog("OIMNTFS Server");
             OIMNTFSScanner = scanner;

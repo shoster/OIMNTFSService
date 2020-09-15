@@ -25,34 +25,10 @@ namespace OIMNTFS_Service.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=10.112.133.87;Initial Catalog=OIMNTFS;User ID=oimntfsdbo;Password=bbG" +
-            "cmcZlkL8FYnsCN4j4;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False")]
+        [global::System.Configuration.DefaultSettingValueAttribute("\"Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=oimntfs;\"")]
         public string OIMNTFSConnectionString {
             get {
                 return ((string)(this["OIMNTFSConnectionString"]));
-            }
-        }
-        
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=OIMNTFS;Integrated Security=Tr" +
-            "ue;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False")]
-        public string OIMNTFSConnectionString1 {
-            get {
-                return ((string)(this["OIMNTFSConnectionString1"]));
-            }
-        }
-        
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=OIMNTFS;Persist Security Info=" +
-            "True;User ID=oimntfsdbo;Password=bbGcmcZlkL8FYnsCN4j4")]
-        public string OIMNTFSConnectionStringLocal {
-            get {
-                return ((string)(this["OIMNTFSConnectionStringLocal"]));
             }
         }
     }
